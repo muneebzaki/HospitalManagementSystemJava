@@ -1,0 +1,50 @@
+🗂️ Overall System Structure (Main Modules)
+We’ll divide the system into four major parts:
+
+Patient Management
+
+Doctor & Staff Management
+
+Appointment & Scheduling
+
+Billing & Reports
+
+👥 Task Breakdown by Team Member
+
+Muneeb
+Patient Management	- Create Patient class, PatientManager class
+- Add, remove, update, search patients
+- Write JUnit tests for patient features
+- Handle patient-related issues on GitHub
+
+
+Raza
+Doctor & Staff Management	- Create Doctor, Nurse classes and DoctorManager
+- Manage staff schedules
+- Write JUnit tests
+- Report any logic/test issues
+
+
+Ali	
+Appointment & Scheduling	- Build Appointment class and scheduling logic
+- Link doctors and patients with time slots
+- Write tests for valid/invalid scheduling
+- Create issues for edge cases
+
+
+Kerem	
+Billing & Reports	- Implement Billing, Invoice, Report generation classes
+- Calculate charges, display bills
+- Write JUnit test cases
+- Track bugs in calculations
+
+
+🔁 Common Responsibilities (Everyone)
+Unit Testing your own code using JUnit 5
+
+Regular GitHub commits (each one should push progress 2–3 times/week)
+
+Report issues on GitHub (e.g., failed tests, logic errors)
+
+Link issues to commits and pull requests
+
